@@ -11,10 +11,10 @@ git clone https://github.com/fitztrev/bookie-vagrant.git
 cd bookie-vagrant
 ```
 
-2) *Optional:* Fork [Bookie](https://github.com/mitechie/Bookie) and use your own repo instead of mitechie's.
+2) Clone Bookie into the `bookie-vagrant` directory. Optionally, you can fork [Bookie](https://github.com/mitechie/Bookie) and use your repo here instead if you plan to develop and make any changes.
 
 ```
-git clone git@github.com:<YOUR_USERNAME>/Bookie.git
+git clone https://github.com/mitechie/Bookie.git
 ```
 
 3) Start + provision the VM.
