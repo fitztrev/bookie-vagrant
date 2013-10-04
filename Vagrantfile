@@ -1,7 +1,9 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
-BOOKIE_REPO = "-b non-interactive-install https://github.com/fitztrev/Bookie.git"
+## The default Bookie repo that will be cloned if you don't
+## already have an instance of Bookie in this directory.
+BOOKIE_REPO = "https://github.com/mitechie/Bookie.git"
 
 VAGRANTFILE_API_VERSION = "2"
 
