@@ -4,22 +4,9 @@ Use [Vagrant](http://www.vagrantup.com/) to get [Bookie](https://github.com/mite
 
 ## Usage
 
-1) Clone bookie-vagrant
-
 ```
 git clone https://github.com/fitztrev/bookie-vagrant.git
 cd bookie-vagrant
-```
-
-2) Clone Bookie into the `bookie-vagrant` directory. Optionally, you can fork [Bookie](https://github.com/mitechie/Bookie) and use your repo here instead if you plan to develop and make any changes.
-
-```
-git clone https://github.com/mitechie/Bookie.git
-```
-
-3) Start + provision the VM.
-
-```
 vagrant up
 ```
 
