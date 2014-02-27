@@ -3,7 +3,7 @@
 
 ## The default Bookie repo that will be cloned if you don't
 ## already have an instance of Bookie in this directory.
-BOOKIE_REPO = "https://github.com/mitechie/Bookie.git"
+BOOKIE_REPO = "https://github.com/bookieio/Bookie.git"
 
 VAGRANTFILE_API_VERSION = "2"
 
